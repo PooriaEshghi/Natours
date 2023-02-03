@@ -6,6 +6,7 @@
 /tmp
 /out-tsc
 *.zip
+/config.env
 
 # dependencies
 /node_modules
@@ -19,6 +20,7 @@ package-lock.json
 *.launch
 .settings/
 *.sublime-workspace
+.eslintrc.json
 
 # IDE - VSCode
 .vscode/*
